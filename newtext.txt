@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7633-0415
+
+ Directory of C:\Users\Manjunath\Desktop\myproject
+
+23-08-2022  12.27 PM    <DIR>          .
+23-08-2022  12.27 PM    <DIR>          ..
+22-08-2022  11.23 PM                20 new.html
+23-08-2022  12.27 PM                 0 newtext.txt
+22-08-2022  11.19 PM                 6 text1.txt
+               3 File(s)             26 bytes
+               2 Dir(s)  42,145,976,320 bytes free
